@@ -1,4 +1,4 @@
-#| C - Binary trees|
+# C - Binary trees
 
 ## Tests :heavy_check_mark:
 
